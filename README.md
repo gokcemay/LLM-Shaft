@@ -1,3 +1,5 @@
+This is a simple test for Mechanical Engineering students and professionals to showcase the capabilities of LLMs in design automation. In this case LLM was used only for code generation. 
+
 Large Language Models (LLMs) have demonstrated proficiency in various do-
 mains. While specialized machine learning algorithms exist for mechanical de-
 sign, the potential of general-purpose LLMs like Google Gemini in this field
